@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-victoriam-101" alt="ad-victoriam-101" /></a> </p>
 
-![](https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ)
+![](https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
