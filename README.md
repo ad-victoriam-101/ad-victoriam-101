@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad-victoriam-101" alt="ad-victoriam-101" /></a> </p>
 
-<iframe src="https://giphy.com/embed/gutZ5Pm6Xl62eIf5RZ" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ">via GIPHY</a></p>
+https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
